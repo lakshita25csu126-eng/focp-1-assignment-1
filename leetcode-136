@@ -5,3 +5,4 @@ int singleNumber(int* n, int numsize) {
     }
 return sn;
 }
+
